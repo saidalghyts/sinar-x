@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "al-quran-digital",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Baca Al-Quran Digital",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/saidalghyts/al-quran-digital.git"
   },
   "author": "Shu Ding <g@shud.in>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/saidalghyts/al-quran-digital/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/saidalghyts/al-quran-digital#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
